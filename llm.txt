@@ -1,0 +1,19 @@
+# Corsa
+
+> Corsa is the next-generation compliance and risk operating system for modern fintech organizations across both fiat and crypto ecosystems.
+
+## About
+
+Corsa provides a unified platform for compliance, risk, operations, and security teams requiring complete, real-time visibility across financial infrastructure. The platform unifies onboarding data (KYC/KYB), accounts, wallets, transactions (fiat and on-chain), vendor signals, alerts, investigations, and case workflows into a single view.
+
+## Key Features
+
+- [Transaction Monitoring](https://corsa.finance): Real-time monitoring of fiat and on-chain transactions
+- [AI-Powered Agents](https://corsa.finance): Embedded AI agents for alert triage, risk scoring, investigative summarization, and anomaly detection
+- [Case Management](https://corsa.finance): End-to-end investigation and case workflows
+- [KYC/KYB](https://corsa.finance): Unified onboarding data management
+- [Vendor Integrations](https://corsa.finance): Consolidated vendor signals in one platform
+
+## Documentation
+
+- [API Docs](https://docs.corsa.finance): Developer documentation and API reference
